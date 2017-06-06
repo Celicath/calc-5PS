@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "5PS.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "5PS"
+[APPNAME]    : "@5PS"
+[VERSION]    : "01.01.0053"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 1
+[MOD1_TITLE] : "5PS"
+[MOD1_ICON]  : "eActivityIcon.bmp"
