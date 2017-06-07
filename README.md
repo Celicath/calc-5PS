@@ -1,9 +1,13 @@
 # Five Pieces
-Five pieces is a RPG made with FX-9860G SDK back in 2007-2008.
+Five pieces is a RPG made with FX-9860G SDK back in 2007-2008. It's story is about collecting five pieces of some Macguffin, which was never implemented.
+
+## Playing the game
+You need Casio FX-9860G series calculator. Put 5PS.g1a file to Storage Memory using FA-124.
+To compile, install FX-9860G SDK and use FXSH.exe to open the project. Opening .g1w file directly doesn't work for some reason.
 
 ## Gameplay
 Since this game is pretty old and made when I was playing this with my real life friends, controls are usually not explained in-game and some of them might feel strange.
-I'll explain some controls here.
+Some controls:
 
 * [EXE]: 'Confirm' key.
 * Directional keys: Move cursor, character, etc.
